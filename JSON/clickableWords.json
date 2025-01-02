@@ -1,5 +1,19 @@
 {
   "clickableWords": {    
+    "*-m": [
+      [
+        "4 *okta-",
+        "“to shoot arrows”",
+        "5 *oktam",
+        "“bowshot distance”"
+      ],
+      [
+        "9 *yē-",
+        "“to eat”",
+        "5 *yēm",
+        "“food, ration, bait”"
+      ]
+    ],
     "*-l": [
       [
         "4 *ïna-",
@@ -39,7 +53,7 @@
         "4 *āčï-",
         "“to become sour”",
         "1 *āčïg",
-        "“bitter”"
+        "“sour, bitter”"
       ],
       [
         "4 *tạrï-",
