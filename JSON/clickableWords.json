@@ -1,5 +1,33 @@
 {
   "clickableWords": {    
+    "*+č": [
+      [
+        "5 *ana",
+        "“mother”",
+        "1 *anač",
+        "“motherly”"
+      ],
+      [
+        "5 *ata",
+        "“father”",
+        "1 *atač",
+        "“fatherly”"
+      ]
+    ],
+    "*-t-": [
+      [
+        "4 *ẹ̄r-",
+        "“to reach”",
+        "9 *ẹ̄rt-",
+        "“to make”"
+      ],
+      [
+        "4 *i-",
+        "“to walk”",
+        "9 *it-",
+        "“to push”"
+      ]
+    ],
     "*-n-": [
       [
         "4 *tokï-",
@@ -15,6 +43,12 @@
       ]
     ],
     "*-l-": [
+      [
+        "4 *tō-",
+        "“to full”",
+        "4 *tōl-",
+        "“to be full”"
+      ],
       [
         "4 *tīri-",
         "“to live”",
