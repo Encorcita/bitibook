@@ -1,5 +1,145 @@
 {
   "clickableWords": {    
+    "*+ü-": [
+      [
+        "1 *bek",
+        "“firm, solid”",
+        "4 *bekü-",
+        "“to become firm”"
+      ],
+      [
+        "5 *töŕ",
+        "“foundation”",
+        "4 *törü-",
+        "“to be born”"
+      ]
+    ],
+    "*+u-": [
+      [
+        "5 *boḏ",
+        "“paint, color”",
+        "9 *boḏu-",
+        "“to paint”"
+      ],
+      [
+        "1 *bōĺč",
+        "“free”",
+        "9 *bōĺču-",
+        "“to set free”"
+      ]
+    ],
+    "*+l-": [
+      [
+        "5 *kü",
+        "“voice, sound”",
+        "4 *bil-",
+        "“to laugh”"
+      ],
+      [
+        "8 *bu",
+        "“this”",
+        "9 *bul-",
+        "“to find”"
+      ]
+    ],
+    "*+i-": [
+      [
+        "1 *semiŕ",
+        "“fat”",
+        "4 *semri-",
+        "“to fatten”"
+      ],
+      [
+        "1 *sēkiŕ",
+        "“sharp-witted”",
+        "4 *sēkri-",
+        "“to jump”"
+      ]
+    ],
+    "*+ï-": [
+      [
+        "5 *agïŕ",
+        "“mouth”",
+        "4 *agrï-",
+        "“to ache”"
+      ],
+      [
+        "1 *yabïŕ",
+        "“bad”",
+        "4 *yabrï-",
+        "“to become weak”"
+      ]
+    ],
+    "*+e-": [
+      [
+        "5 *tȫĺ",
+        "“chest”",
+        "9 *tȫĺe-",
+        "“to spread”"
+      ],
+      [
+        "5 *ört",
+        "“fire”",
+        "9 *örte-",
+        "“to burn down”"
+      ]
+    ],
+    "*+a-": [
+      [
+        "5 *buŋ",
+        "“suffering”",
+        "4 *buŋa-",
+        "“to become sick”"
+      ],
+      [
+        "5 *ōyun",
+        "“game”",
+        "4 *ōy(u)na-",
+        "“to play”"
+      ]
+    ],
+    "*+ŕ": [
+      [
+        "8 *bi",
+        "“I”",
+        "8 *biŕ",
+        "“we”"
+      ],
+      [
+        "5 *ẹki",
+        "“two”",
+        "5 *ẹkiŕ",
+        "“twin”"
+      ]
+    ],
+    "*+n": [
+      [
+        "5 *boḏu",
+        "“kin, tribe”",
+        "5 *boḏun",
+        "“people, nation”"
+      ],
+      [
+        "5 *tegirme",
+        "“millstone”",
+        "5 *tegirmen",
+        "“mill”"
+      ]
+    ],
+    "*+k": [
+      [
+        "5 *kirpi",
+        "“hedgehog”",
+        "5 *kirpik",
+        "“eyelash”"
+      ],
+      [
+        "5 *ortu",
+        "“middle”",
+        "5 *ortuk",
+        "“partner”"
+      ]
+    ],
     "*+č": [
       [
         "5 *ana",
