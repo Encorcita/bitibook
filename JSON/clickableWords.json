@@ -1,5 +1,19 @@
 {
   "clickableWords": {    
+    "*-uk": [
+      [
+        "4 *art-",
+        "“to increase”",
+        "1 *artuk",
+        "“more, much”"
+      ],
+      [
+        "9 *bïč-",
+        "“to cut”",
+        "1 *bïčuk",
+        "“half”"
+      ]
+    ],
     "*+ü-": [
       [
         "1 *bek",
