@@ -16,7 +16,7 @@
     ],
     "*+ü-": [
       [
-        "1 *bek",
+        "0 *bek",
         "“firm, solid”",
         "4 *bekü-",
         "“to become firm”"
@@ -36,9 +36,9 @@
         "“to paint”"
       ],
       [
-        "1 *bōĺč",
+        "0 *bōĺ(č)",
         "“free”",
-        "9 *bōĺču-",
+        "9 *bōĺ(č)u-",
         "“to set free”"
       ]
     ],
@@ -78,13 +78,13 @@
     ],
     "*+i-": [
       [
-        "1 *semiŕ",
+        "0 *semiŕ",
         "“fat”",
         "4 *semri-",
         "“to fatten”"
       ],
       [
-        "1 *sēkiŕ",
+        "0 *sēkiŕ",
         "“sharp-witted”",
         "4 *sēkri-",
         "“to jump”"
@@ -98,7 +98,7 @@
         "“to ache”"
       ],
       [
-        "1 *yabïŕ",
+        "0 *yabïŕ",
         "“bad”",
         "4 *yabrï-",
         "“to become weak”"
@@ -178,13 +178,13 @@
       [
         "5 *ana",
         "“mother”",
-        "1 *anač",
+        "0 *anač",
         "“motherly”"
       ],
       [
         "5 *ata",
         "“father”",
-        "1 *atač",
+        "0 *atač",
         "“fatherly”"
       ]
     ],
@@ -288,7 +288,7 @@
       [
         "4 *kạrï-",
         "“to get old”",
-        "1 *kạrït",
+        "0 *kạrït",
         "“hoary, old”"
       ]
     ],
@@ -316,7 +316,7 @@
       [
         "4 *yara-",
         "“to be useful”",
-        "1 *yarar",
+        "0 *yarar",
         "“useful”"
       ]
     ],
@@ -324,13 +324,13 @@
       [
         "9 *al-",
         "“to beat”",
-        "1 *alp",
+        "0 *alp",
         "“valiant, brave”"
       ],
       [
         "4 *sar-",
         "“to ill-use”",
-        "1 *sarp",
+        "0 *sarp",
         "“steep; difficult”"
       ]
     ],
@@ -372,7 +372,7 @@
       [
         "4 *tüke-",
         "“to come to an end”",
-        "1 *tükel",
+        "0 *tükel",
         "“perfect”"
       ]
     ],
@@ -386,7 +386,7 @@
       [
         "4 *sogï-",
         "“to cold”",
-        "1 *sogïk",
+        "0 *sogïk",
         "“cold”"
       ],
       [
@@ -400,7 +400,7 @@
       [
         "4 *āčï-",
         "“to become sour”",
-        "1 *āčïg",
+        "0 *āčïg",
         "“sour, bitter”"
       ],
       [
@@ -412,7 +412,7 @@
       [
         "4 *yalïn-",
         "“to strip”",
-        "1 *yalïŋ",
+        "0 *yalïŋ",
         "“bare, naked”"
       ]
     ],
