@@ -1,5 +1,53 @@
 {
   "clickableWords": {    
+    "*+lüg": [
+      [
+        "5 *kǖč",
+        "“power”",
+        "0 *kǖčlüg",
+        "“powerful”"
+      ],
+      [
+        "5 *öŋ",
+        "“color”",
+        "0 *öŋlüg",
+        "“colorful”"
+      ]
+    ],
+    "*+lug": [
+      [
+        "5 *ạ̄gu",
+        "“posion”",
+        "0 *ạ̄gulug",
+        "“poisonous”"
+      ],
+      [
+        "5 *kut",
+        "“luck, good fortune”",
+        "0 *kutlug",
+        "“fortunate”"
+      ]
+    ],
+    "*+lïg": [
+      [
+        "5 *ïnanč",
+        "“faith, belief”",
+        "1 *ïnančlïg",
+        "“devout, faithful”"
+      ],
+      [
+        "5 *āt",
+        "“power”",
+        "1 *ātlïg",
+        "“named”"
+      ],
+      [
+        "5 *bag",
+        "“tie, rope”",
+        "1 *baglïg",
+        "“tied up, tied”"
+      ]
+    ],
     "*-ĺč": [
       [
         "4 *küre-",
@@ -18,20 +66,6 @@
         "“to divide”",
         "4 *ül(ü)geĺč-",
         "“to share”"
-      ]
-    ],    
-    "*+lüg": [
-      [
-        "5 *kǖč",
-        "“power”",
-        "0 *kǖčlüg",
-        "“powerful”"
-      ],
-      [
-        "5 *öŋ",
-        "“color”",
-        "0 *öŋlüg",
-        "“colorful”"
       ]
     ],
     "*-uk": [
