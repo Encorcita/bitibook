@@ -1,5 +1,19 @@
 {
   "clickableWords": {    
+    "*+lük": [
+      [
+        "5 *kǖč",
+        "“power”",
+        "0 *kǖčlüg",
+        "“powerful”"
+      ],
+      [
+        "5 *öŋ",
+        "“color”",
+        "0 *öŋlüg",
+        "“colorful”"
+      ]
+    ],
     "*-uk": [
       [
         "4 *art-",
