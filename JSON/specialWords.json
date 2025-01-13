@@ -1,7 +1,7 @@
 {
   "specialWords": {
-    "00": "CDS",
-    "01": "Turkic",
+    "00": "Uyghur",
+    "01": "Old Uyghur",
     "02": "Ottoman Turkish",
     "03": "Old Anatolian Turkish",
     "04": "Turkish",
@@ -30,7 +30,7 @@
     "27": "Pecheneg",
     "28": "Chulym",
     "29": "Cypriot Turkish",
-    "30": "",
+    "30": "Krymchak",
     "31": "",
     "32": "",
     "33": "",
