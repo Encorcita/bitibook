@@ -1,5 +1,5 @@
 {
-  "specialWords": {
+  "language": {
     "00": "Uyghur",
     "01": "Old Uyghur",
     "02": "Ottoman Turkish",
@@ -67,8 +67,8 @@
     "64": "Siberian Turkic",
     "65": "Kuban Bulgar",
     "66": "Karamanli Turkish",
-    "67": "",
-    "68": "",
+    "67": "Common Turkic",
+    "68": "Oghuric",
     "69": "",
     "70": "",
     "71": "",
