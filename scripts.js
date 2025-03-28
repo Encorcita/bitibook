@@ -155,7 +155,7 @@ function searchWord(query) {
 
         const closestWord = matchingWords[0];
         const wordDetails = dictionaryData[closestWord.original];
-        const description = wordDetails.a.replace(/\n/g, "<br>");
+        const description = wordDetails.entry.replace(/\n/g, "<br>");
         const descriptionElement = document.createElement('p');
         descriptionElement.classList.add('description');
         descriptionElement.innerHTML = highlightWords(sanitizeHTML(description));
@@ -370,22 +370,22 @@ function searchWord(query) {
         let allDataLoaded = true;
 
         try {
-            const clickableWordsResponse = await fetch('vocabulary/clickableWords.json');
+            const clickableWordsResponse = await fetch('json/suffix.json');
             if (!clickableWordsResponse.ok) throw new Error('clickableWords could not be loaded');
             const clickableWordsJson = await clickableWordsResponse.json();
             clickableWords = clickableWordsJson.clickableWords;
 
-            const specialWordsResponse = await fetch('vocabulary/specialWords.json');
+            const specialWordsResponse = await fetch('json/language.json');
             if (!specialWordsResponse.ok) throw new Error('specialWords could not be loaded');
             const specialWordsJson = await specialWordsResponse.json();
             specialWords = specialWordsJson.specialWords;
 
-            const entryWordsResponse = await fetch('vocabulary/entryWords.json');
+            const entryWordsResponse = await fetch('json/vocabulary.json');
             if (!entryWordsResponse.ok) throw new Error('entryWords could not be loaded');
             const entryWordsJson = await entryWordsResponse.json();
             entryWords = entryWordsJson.entryWords;
 
-            const typeWordsResponse = await fetch('vocabulary/typeWords.json');
+            const typeWordsResponse = await fetch('json/type.json');
             if (!typeWordsResponse.ok) throw new Error('typeWords could not be loaded');
             const typeWordsJson = await typeWordsResponse.json();
             typeWords = typeWordsJson.typeWords;
