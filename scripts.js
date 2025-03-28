@@ -373,22 +373,22 @@ function searchWord(query) {
             const clickableWordsResponse = await fetch('json/suffix.json');
             if (!clickableWordsResponse.ok) throw new Error('clickableWords could not be loaded');
             const clickableWordsJson = await clickableWordsResponse.json();
-            clickableWords = clickableWordsJson.clickableWords;
+            clickableWords = clickableWordsJson.suffix;
 
             const specialWordsResponse = await fetch('json/language.json');
             if (!specialWordsResponse.ok) throw new Error('specialWords could not be loaded');
             const specialWordsJson = await specialWordsResponse.json();
-            specialWords = specialWordsJson.specialWords;
+            specialWords = specialWordsJson.language;
 
             const entryWordsResponse = await fetch('json/vocabulary.json');
             if (!entryWordsResponse.ok) throw new Error('entryWords could not be loaded');
             const entryWordsJson = await entryWordsResponse.json();
-            entryWords = entryWordsJson.entryWords;
+            entryWords = entryWordsJson.vocabulary;
 
             const typeWordsResponse = await fetch('json/type.json');
             if (!typeWordsResponse.ok) throw new Error('typeWords could not be loaded');
             const typeWordsJson = await typeWordsResponse.json();
-            typeWords = typeWordsJson.typeWords;
+            typeWords = typeWordsJson.type;
 
             dictionaryData = entryWords;
             wrapClickableWords();
