@@ -457,7 +457,7 @@ searchBox.addEventListener('input', () => {
         copyButton.copyLabel = '';
         copyButton.successLabel = '';
         if (fullTitle && searchResult) {
-            const copyText = `${fullTitle}\n\n\n${searchResult}\n\n\n\nSource: ${sourceUrl}`;
+            const copyText = `${fullTitle}\n\n${searchResult}\n\nSource: ${sourceUrl}`;
             navigator.clipboard.writeText(copyText).catch(err => {
                 console.error('Kopyalama hatası:', err);
             });
