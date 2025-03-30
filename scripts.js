@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             window.history.replaceState(null, null, `/`);
             copyButton.style.display = 'none';
         } else {
-            window.history.replaceState(null, null, `bitibook/#${encodeURIComponent(cleanedHash)}`);
+            window.history.replaceState(null, null, `#${encodeURIComponent(cleanedHash)}`);
             searchBox.value = cleanedHash;
             updateSearch(cleanedHash);
             updateSearchBoxPlaceholder(cleanedHash);
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (dictionaryData && Object.keys(dictionaryData).length > 0) {
             searchWord(formattedQuery);
             if (query) {
-                window.history.replaceState(null, null, `#${encodeURIComponent(formattedQuery)}`);
+                window.history.replaceState(null, null, `bitibook/#${encodeURIComponent(formattedQuery)}`);
             } else {
                 window.history.replaceState(null, null, `#`);
             }
