@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             window.history.replaceState(null, null, `/`);
             copyButton.style.display = 'none';
         } else {
-            window.history.replaceState(null, null, `#${encodeURIComponent(cleanedHash)}`);
+            window.history.replaceState(null, null, `/bitibook/#${encodeURIComponent(cleanedHash)}`);
             searchBox.value = cleanedHash;
             updateSearch(cleanedHash);
             updateSearchBoxPlaceholder(cleanedHash);
