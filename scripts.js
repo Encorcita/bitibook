@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (dictionaryData && Object.keys(dictionaryData).length > 0) {
             searchWord(formattedQuery);
             if (query) {
-                window.history.replaceState(null, null, `bitibook/#${encodeURIComponent(formattedQuery)}`);
+                window.history.replaceState(null, null, `#${encodeURIComponent(formattedQuery)}`);
             } else {
                 window.history.replaceState(null, null, `#`);
             }
